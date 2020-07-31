@@ -1,3 +1,3 @@
 # Algorithms
-### AlgoExpert 
-#### Youngest Common Ancestor
+## AlgoExpert 
+### Youngest Common Ancestor
