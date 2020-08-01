@@ -1,7 +1,5 @@
-# This repository is only for the personal educational purpose.
-# The code below is from algoExpert.
-
 # Youngest Common Ancestor
+
 # ====
 # Flow
 # ====
@@ -15,7 +13,7 @@
 # ==============
 # Time: O(d) time where d is the depth of the ancestral tree
 # 1) Since the descedants need to move only d times to find the common ancestor
-#   a) I think if the tree is not balanced it takes O(n) where n is the number of descendants and if it is balanced it takes O(log(n)) where n is the number of descendants in the tree. 
+#  a) I think if the tree is not balanced it takes O(n) where n is the number of descendants and if it is balanced it takes O(log(n)) where n is the number of descendants in the tree. 
 # Space: O(1) space
 # 1) need only constant space
 
