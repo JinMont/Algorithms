@@ -1,9 +1,10 @@
 # Algorithms
-###### ***Codes of the problems are from AlgoExpert***
+###### ***Codes and notes in this repository are for personal education purpose. I do not claim ownership of the codes and notes.***
 ## Questions from AlgoExpert 
 Name                       | Link
 ---------------------------|------
  Youngest Common Ancestor  |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/youngestCommonAncestor.py)
  Min Heap Construction     |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/minHeapConstruction.py)
  Remove Kth Node From End  |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/removeKthNodeFromEnd.py)
- Permutations              |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/permutations.py)
+ Permutations Solution 1   |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/permutations_sol1.py)
+ Permutations Solution 2   |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/permutations_sol2.py)
