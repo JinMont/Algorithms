@@ -1,8 +1,8 @@
 # Remove Kth Node From End
 
-# ========
-# Concerns
-# ========
+# ==============
+# Before dive in
+# ==============
 # 1) Singly linked list
 #  a) no prev attribute in a node
 # 2) how to know a node is at kth from the end
