@@ -3,8 +3,8 @@
 # ====
 # Flow
 # ====
-# 1) start with an empty list in a list
-# 2) loop through all the element 
+# 1) start with an empty set within an subset list
+# 2) loop through all the element in array
 #  a) add an element on its turn into the subsets in the powerset list
 
 # ====
