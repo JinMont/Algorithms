@@ -8,3 +8,4 @@ Name                       | Link
  Remove Kth Node From End  |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/removeKthNodeFromEnd.py)
  Permutations Solution 1   |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/permutations_sol1.py)
  Permutations Solution 2   |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/permutations_sol2.py)
+ Powerset                  |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/powerset.py)
