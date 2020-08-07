@@ -10,3 +10,4 @@ Name                       | Link
  Permutations Solution 2   |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/permutations_sol2.py)
  Powerset                  |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/powerset.py)
  Search In Sorted Matrix   |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/searchInSortedMatrix.py)
+ Min Height BST            |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/minHeightBst.py)

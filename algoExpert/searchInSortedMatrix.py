@@ -3,7 +3,7 @@
 # ==============
 # Before dive in
 # ==============
-# 1) I think it was similar to Binary tree in the idea that 
+# 1) I think it was similar to Binary Search Tree in the idea that 
 #    you can increase row or decrease column based on the comparision of target and current postition
 # 2) Since the row and column are in sorted order, 
 #    you want to start at the top right corner to use the advantage moving row and column
