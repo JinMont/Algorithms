@@ -11,3 +11,4 @@ Name                       | Link
  Powerset                  |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/powerset.py)
  Search In Sorted Matrix   |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/searchInSortedMatrix.py)
  Min Height BST            |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/minHeightBst.py)
+ balancedBrackets          |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/balancedBrackets.py)

@@ -4,7 +4,7 @@
 # Before dive in
 # ==============
 # 1) Minimize the height of the BST
-# 2) tha array is in sorted order and it can be useful to minimize the height
+# 2) tha input array is in sorted order and it can be useful to minimize the height
 # 3) [1, 2, 5, 7, 10 ,13, 14, 15, 22]
 
 # example 1)
