@@ -6,7 +6,6 @@
 # 1) Possible unbalace
 #  a) a closing bracket without a prior matching opening bracket
 #  b) left with some opening brackets that haven't been matched
-
 # 2) Which data strucutre?
 #  a) should keep track of all the brackets and check an unbalace at each loop
 # 3) Stack
