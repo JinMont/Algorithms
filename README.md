@@ -12,4 +12,4 @@ Name                          | Link
  Search In Sorted Matrix      |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/searchInSortedMatrix.py)
  Min Height BST               |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/minHeightBst.py)
  Balanced Brackets            |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/balancedBrackets.py)
- Longest Palinromic Substring |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/balancedBrackets.py)
+ Longest Palinromic Substring |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/longestPalindromicSubstring.py)
