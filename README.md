@@ -15,4 +15,4 @@ Name                          | Link | Thoughts
  Longest Palinromic Substring |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/longestPalindromicSubstring.py)|
  Group Anagram                |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/groupAnagram.py)|
  Suffix Trie Construction     |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/suffixTrieConstruction.py)|
- Four Number Sum              |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/fourNumberSum.py)|It was interesting to use a hash table to store calculations. Those stored calculations can be reused to reduce the computing time by preventing necessary calculations. It reminded me the fibonacci sequence problem.
+ Four Number Sum              |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/fourNumberSum.py)|It was interesting to use a hash table to store calculations. Those stored calculations can be reused to reduce the computing time by preventing unnecessary calculations. It reminded me the fibonacci sequence problem.
