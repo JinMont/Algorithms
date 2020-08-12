@@ -33,18 +33,18 @@
 # 4) Repeat until there is not a substring left
 # 5) Add the final node * that marks the end of the string 
 
-# =========
-# Searching
-# =========
+# ======
+# Search
+# ======
 # 1) Time
 #  a) O(m) where m is the length of the string we are searching for
 #  b) we just follow the each char of the string in the trie
 # 2) Space
 #  a) O(1)
 
-# ========
-# Creation
-# ========
+# ======
+# Create
+# ======
 # 1) Time
 #  a) O(n^2) 
 #  b) Interating all the possible suffixes and its characters
