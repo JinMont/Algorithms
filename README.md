@@ -19,3 +19,5 @@ Name                          | Link | Thoughts
  Subarray Sort                |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/subarraySort.py)|When you find an unsorted subarray of an array, you need to sort not only the unsorted subarray but from where the smallest element of the subarray positions in the whole array up to where the biggest element of the subarray positons in the whole array.
  Largest Range                |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/largestRange.py)|
  Min Rewards                  |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/minRewards.py)|
+ Zigzag Traverse              |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/zigzagTraverse.py)|Codes look complex but they might be the simplest.
+ Same BSTs                    |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/sameBsts.py)|Algorithm with less time and less space is not always better if it reduces readability and effciency of coopperation
