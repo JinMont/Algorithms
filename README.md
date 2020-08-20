@@ -21,3 +21,4 @@ Name                          | Link | Thoughts
  Min Rewards                  |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/minRewards.py)|
  Zigzag Traverse              |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/zigzagTraverse.py)|Codes look complex but they might be the simplest.
  Same BSTs                    |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/sameBsts.py)|Algorithm with less time and less space is not always better if it reduces readability and effciency of coopperation
+ Max Path Sum in Binary       |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/maxpathSumInBinary.py)|
