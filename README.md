@@ -23,3 +23,4 @@ Name                           | Link | Thoughts
  Same BSTs                     |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/sameBsts.py)|Algorithm with less time and less space is not always better if it reduces readability and effciency of coopperation
  Max Path Sum in Binary        |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/maxpathSumInBinary.py)|
  Max Sum Increasing Subsequence|[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/maxSumIncreasingSubsequence.py)| Good Problem usign Dynamic Programming
+ Longest Common Subsequence|[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/longestCommonSubsequence.py)| 
