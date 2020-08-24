@@ -24,3 +24,4 @@ Name                           | Link | Thoughts
  Max Path Sum in Binary        |[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/maxpathSumInBinary.py)|
  Max Sum Increasing Subsequence|[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/maxSumIncreasingSubsequence.py)| Good Problem usign Dynamic Programming
  Longest Common Subsequence|[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/longestCommonSubsequence.py)| 
+ Min Number of Jumps|[Note](https://github.com/jinmountain/Algorithms/blob/master/algoExpert/minNumberOfJumps.py)| 
